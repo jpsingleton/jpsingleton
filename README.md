@@ -8,11 +8,16 @@ The book is also a large collection of tips applicable to making web apps perfor
 I mainly work with C#, .NET and JavaScript/TypeScript/React but also work regularly with Python (v3 but also v2).
 I use Linux, Markdown, git, CI / testing automation and time-series databases (such as InfluxDB) almost daily too.
 
-I maintain [Huxley2](https://github.com/jpsingleton/Huxley2), a cross-platform CORS enabled JSON ReST proxy for the GB railway Live Departure Boards SOAP API
+I maintain [Huxley2](https://github.com/jpsingleton/Huxley2), a cross-platform CORS enabled JSON ReST proxy for the GB railway Live Departure Boards SOAP API:
+
   - .NET Core ReST JSON web API
   - SOAP XML API integration
   - Azure DevOps CI/CD (YAML) and Azure hosting
 
-If you find my work valuable then please consider [sponsoring me](https://github.com/sponsors/jpsingleton). Thanks🕴🏻 
+I blog at [unop.uk](https://unop.uk/) about tech, the environment and many other things.
+
+If you find my work valuable then please consider [sponsoring me](https://github.com/sponsors/jpsingleton). I'm also available for hire.
+
+Thanks🕴🏻 
 
 ## 💚
